@@ -1,2 +1,2 @@
-# Create Buffer &  beams
-### WARNING: Please use the Updated versions on: https://github.com/createbufferandbeams/createbufferandbeams-stable
+# Create Buffer & Beams Beta
+Please use the Updated versions on: https://github.com/createbufferandbeams/createbufferandbeams-stable
